@@ -1,4 +1,5 @@
-Gesture Controlled Drawing App
+# Gesture Controlled Drawing App
+
 This is a Streamlit-based application that allows users to draw on a canvas using hand gestures captured via a webcam. The app uses MediaPipe for hand tracking and OpenCV for image processing.
 Features
 
