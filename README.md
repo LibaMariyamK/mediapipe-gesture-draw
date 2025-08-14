@@ -3,7 +3,7 @@
 A **Streamlit-based application** that allows users to draw on a canvas using **hand gestures** captured via a webcam or from uploaded media.  
 The app uses **MediaPipe** for **hand tracking** and **OpenCV** for **image processing**, enabling intuitive, touch-free drawing.
 
-[Working demo](https://www.linkedin.com/posts/libamariyamk_mediapipe-opencv-streamlit-activity-7361702686456504320-w673?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwFql8B3vuNvys3D1U7rCfjnKrxWzUMPQk)
+- **[Working demo](https://www.linkedin.com/posts/libamariyamk_mediapipe-opencv-streamlit-activity-7361702686456504320-w673?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwFql8B3vuNvys3D1U7rCfjnKrxWzUMPQk)**
 ---
 
 ## 📌 Introduction to Technologies
